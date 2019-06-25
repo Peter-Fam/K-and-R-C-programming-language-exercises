@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+#ctags
+tags
 
 # Object files
 *.o
@@ -50,3 +52,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+#ScratchPads
+ScratchPad*.*
